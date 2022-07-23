@@ -7,7 +7,8 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src='/assets/logo.svg' className="App-logo" alt="logo" />
-        <p>
+        <h1> Hello World </h1>
+<p>
           My First <strong>React App.</strong>
 <p> By <b> Agu C. Christopher</b></p>
         </p>
